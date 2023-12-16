@@ -1,0 +1,152 @@
+[
+  {
+    "classId": 6,
+    "className": "LKG",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 7,
+    "className": "UKG",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 8,
+    "className": "Class I",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 9,
+    "className": "Class II",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 10,
+    "className": "Class III",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 11,
+    "className": "Class IV",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 12,
+    "className": "Class V",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 13,
+    "className": "Class VI",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 14,
+    "className": "Class VII",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 15,
+    "className": "Class VIII",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 16,
+    "className": "Class IX",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 17,
+    "className": "Class X",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 18,
+    "className": "Class XI",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 19,
+    "className": "Class XII",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": true,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "classId": 21,
+    "className": "test class e1",
+    "description": "Counting objects, inside and outside, longer and shorter, letter names, rhyming words and more ghyj jyu 7 u j u 7 u7u67 u67 67 u6u67 u76u",
+    "courseId": 10,
+    "status": false,
+    "course": null,
+    "subjectMasters": [],
+    "subscriptionMasters": []
+  }
+]

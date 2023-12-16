@@ -1,0 +1,532 @@
+[
+  {
+    "topicId": 2,
+    "topic": "Shapes",
+    "unitId": 13,
+    "status": true,
+    "subTopicMasters": [
+      {
+        "subTopicId": 2,
+        "subTopic": "Name the shape",
+        "topicId": 2,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 3,
+        "subTopic": "Circles",
+        "topicId": 2,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 4,
+        "subTopic": "Squares",
+        "topicId": 2,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 5,
+        "subTopic": "Triangles",
+        "topicId": 2,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 6,
+        "subTopic": "Rectangles",
+        "topicId": 2,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 7,
+        "subTopic": "Circles, squares and triangles",
+        "topicId": 2,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      }
+    ],
+    "unit": null
+  },
+  {
+    "topicId": 3,
+    "topic": "Count to 3",
+    "unitId": 13,
+    "status": true,
+    "subTopicMasters": [
+      {
+        "subTopicId": 8,
+        "subTopic": "Learn to count - up to 3",
+        "topicId": 3,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 9,
+        "subTopic": "Count objects - up to 3",
+        "topicId": 3,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 10,
+        "subTopic": "Count dots - up to 3",
+        "topicId": 3,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 11,
+        "subTopic": "Count shapes - up to 3",
+        "topicId": 3,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 12,
+        "subTopic": "Count on ten frames - up to 3",
+        "topicId": 3,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 13,
+        "subTopic": "Show numbers on ten frames - up to 3",
+        "topicId": 3,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 14,
+        "subTopic": "Represent numbers - up to 3",
+        "topicId": 3,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      }
+    ],
+    "unit": null
+  },
+  {
+    "topicId": 4,
+    "topic": "Count to 5",
+    "unitId": 13,
+    "status": true,
+    "subTopicMasters": [
+      {
+        "subTopicId": 15,
+        "subTopic": "Learn to count - up to 5",
+        "topicId": 4,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 16,
+        "subTopic": "Count objects - up to 5",
+        "topicId": 4,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 17,
+        "subTopic": "Count dots - up to 5",
+        "topicId": 4,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 18,
+        "subTopic": "Count shapes - up to 5",
+        "topicId": 4,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 19,
+        "subTopic": "Count on ten frames - up to 5",
+        "topicId": 4,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 20,
+        "subTopic": "Show numbers on ten frames - up to 5",
+        "topicId": 4,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 21,
+        "subTopic": "Represent numbers - up to 5",
+        "topicId": 4,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      }
+    ],
+    "unit": null
+  },
+  {
+    "topicId": 5,
+    "topic": "Count to 10",
+    "unitId": 13,
+    "status": true,
+    "subTopicMasters": [
+      {
+        "subTopicId": 22,
+        "subTopic": "Learn to count - up to 10",
+        "topicId": 5,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 23,
+        "subTopic": "Count objects - up to 10",
+        "topicId": 5,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 24,
+        "subTopic": "Count dots - up to 10",
+        "topicId": 5,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 25,
+        "subTopic": "Count shapes - up to 10",
+        "topicId": 5,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 26,
+        "subTopic": "Count on ten frames - up to 10",
+        "topicId": 5,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 27,
+        "subTopic": "Show numbers on ten frames - up to 10",
+        "topicId": 5,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 28,
+        "subTopic": "Represent numbers - up to 10",
+        "topicId": 5,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      }
+    ],
+    "unit": null
+  },
+  {
+    "topicId": 6,
+    "topic": "Comparing",
+    "unitId": 13,
+    "status": true,
+    "subTopicMasters": [
+      {
+        "subTopicId": 29,
+        "subTopic": "Are there enough?",
+        "topicId": 6,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 30,
+        "subTopic": "More",
+        "topicId": 6,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 31,
+        "subTopic": "Fewer",
+        "topicId": 6,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 32,
+        "subTopic": "Fewer and more - compare by counting",
+        "topicId": 6,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 33,
+        "subTopic": "Compare in a mixed group",
+        "topicId": 6,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      }
+    ],
+    "unit": null
+  },
+  {
+    "topicId": 7,
+    "topic": "Positions",
+    "unitId": 13,
+    "status": true,
+    "subTopicMasters": [
+      {
+        "subTopicId": 34,
+        "subTopic": "Inside and outside",
+        "topicId": 7,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 35,
+        "subTopic": "Above and below",
+        "topicId": 7,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 36,
+        "subTopic": "Beside and next to",
+        "topicId": 7,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 37,
+        "subTopic": "Left and right",
+        "topicId": 7,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 38,
+        "subTopic": "Left, middle and right",
+        "topicId": 7,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 39,
+        "subTopic": "Top and bottom",
+        "topicId": 7,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 40,
+        "subTopic": "Top, middle and bottom",
+        "topicId": 7,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      }
+    ],
+    "unit": null
+  },
+  {
+    "topicId": 8,
+    "topic": "Classify",
+    "unitId": 13,
+    "status": true,
+    "subTopicMasters": [
+      {
+        "subTopicId": 41,
+        "subTopic": "Same",
+        "topicId": 8,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 42,
+        "subTopic": "Different",
+        "topicId": 8,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 43,
+        "subTopic": "Same and different",
+        "topicId": 8,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 44,
+        "subTopic": "Classify shapes by colour",
+        "topicId": 8,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 45,
+        "subTopic": "Classify and sort by colour",
+        "topicId": 8,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 46,
+        "subTopic": "Classify and sort by shape",
+        "topicId": 8,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      }
+    ],
+    "unit": null
+  },
+  {
+    "topicId": 9,
+    "topic": "Patterns",
+    "unitId": 13,
+    "status": true,
+    "subTopicMasters": [
+      {
+        "subTopicId": 47,
+        "subTopic": "Colour patterns",
+        "topicId": 9,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 48,
+        "subTopic": "Size patterns",
+        "topicId": 9,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 49,
+        "subTopic": "Shape patterns",
+        "topicId": 9,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 50,
+        "subTopic": "What comes next?",
+        "topicId": 9,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      }
+    ],
+    "unit": null
+  },
+  {
+    "topicId": 10,
+    "topic": "Size",
+    "unitId": 13,
+    "status": true,
+    "subTopicMasters": [
+      {
+        "subTopicId": 51,
+        "subTopic": "Long and short",
+        "topicId": 10,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 52,
+        "subTopic": "Tall and short",
+        "topicId": 10,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 53,
+        "subTopic": "Wide and narrow",
+        "topicId": 10,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 54,
+        "subTopic": "Light and heavy",
+        "topicId": 10,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      }
+    ],
+    "unit": null
+  },
+  {
+    "topicId": 11,
+    "topic": "Money",
+    "unitId": 13,
+    "status": true,
+    "subTopicMasters": [
+      {
+        "subTopicId": 55,
+        "subTopic": "Coin values",
+        "topicId": 11,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      },
+      {
+        "subTopicId": 56,
+        "subTopic": "Count 1-rupee coins",
+        "topicId": 11,
+        "status": true,
+        "questionMasters": [],
+        "topic": null
+      }
+    ],
+    "unit": null
+  }
+]

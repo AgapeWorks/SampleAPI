@@ -1,0 +1,97 @@
+﻿[
+  {
+    "appUserId": 23,
+    "userName": "trial",
+    "password": "e86f78a8a3caf0b60d8e74e5942aa6d86dc150cd3c03338aef25b7d2d7e3acc7",
+    "appRoleId": 1,
+    "firstName": "trial",
+    "lastName": "user",
+    "emailId": "trial@gmail.com",
+    "updatedDttm": "2023-11-20T17:23:07.25",
+    "updatedBy": null,
+    "appRole": {
+      "appRoleId": 1,
+      "roleName": "User",
+      "updatedDttm": null,
+      "updatedBy": null,
+      "status": true,
+      "appUsers": [
+        null
+      ]
+    },
+    "status": true,
+    "userSubscriptions": [
+      {
+        "userSubscriptionId": 11,
+        "appUserId": 23,
+        "subscriptionId": 1015,
+        "subscriptionType": "",
+        "status": true,
+        "createdDttm": "2023-11-28T11:47:12.093",
+        "expireDttm": "2023-12-28T11:47:12.093",
+        "remaingDays": 29,
+        "appUser": null,
+        "subscription": {
+          "subscriptionId": 1015,
+          "subscriptionName": "Silver Plan",
+          "subscriptionDetails": "g",
+          "subscriptionAmount": 2,
+          "currencyType": "USD",
+          "subscriptionDuration": 2,
+          "coupon": "SILVER",
+          "createdBy": null,
+          "updatedDttm": "2023-11-28T11:44:03.107",
+          "courseId": 10,
+          "classId": 6,
+          "status": true,
+          "courseMaster": null,
+          "classMaster": null,
+          "userSubscriptions": [
+            null
+          ]
+        }
+      }
+    ],
+    "userPayments": [],
+    "userLogin": {
+      "userLoginId": 4,
+      "userId": 23,
+      "loginDttm": "2023-12-04T10:12:16.963",
+      "logoutDttm": null,
+      "deviceIpAddress": "172.26.224.1",
+      "appUser": null
+    }
+  },
+  {
+    "appUserId": 25,
+    "userName": "test",
+    "password": "e86f78a8a3caf0b60d8e74e5942aa6d86dc150cd3c03338aef25b7d2d7e3acc7",
+    "appRoleId": 1,
+    "firstName": "test",
+    "lastName": "user",
+    "emailId": "test@gmail.com",
+    "updatedDttm": "2023-11-20T17:23:07.25",
+    "updatedBy": null,
+    "appRole": {
+      "appRoleId": 1,
+      "roleName": "User",
+      "updatedDttm": null,
+      "updatedBy": null,
+      "status": true,
+      "appUsers": [
+        null
+      ]
+    },
+    "status": true,
+    "userSubscriptions": [],
+    "userPayments": [],
+    "userLogin": {
+      "userLoginId": 5,
+      "userId": 25,
+      "loginDttm": "2023-12-04T10:15:07.28",
+      "logoutDttm": null,
+      "deviceIpAddress": "172.26.224.1",
+      "appUser": null
+    }
+  }
+]

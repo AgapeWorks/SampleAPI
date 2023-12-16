@@ -1,0 +1,74 @@
+[
+  {
+    "courseId": 10,
+    "courseName": "School",
+    "courseDuration": null,
+    "updatedDttm": null,
+    "status": true,
+    "classMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "courseId": 11,
+    "courseName": "Bank",
+    "courseDuration": null,
+    "updatedDttm": null,
+    "status": true,
+    "classMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "courseId": 12,
+    "courseName": "Railway ",
+    "courseDuration": null,
+    "updatedDttm": null,
+    "status": true,
+    "classMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "courseId": 13,
+    "courseName": "TNPSC",
+    "courseDuration": null,
+    "updatedDttm": null,
+    "status": true,
+    "classMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "courseId": 14,
+    "courseName": "SSC",
+    "courseDuration": null,
+    "updatedDttm": null,
+    "status": true,
+    "classMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "courseId": 15,
+    "courseName": "UPSC",
+    "courseDuration": null,
+    "updatedDttm": null,
+    "status": true,
+    "classMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "courseId": 16,
+    "courseName": "TNUSRB",
+    "courseDuration": null,
+    "updatedDttm": null,
+    "status": true,
+    "classMasters": [],
+    "subscriptionMasters": []
+  },
+  {
+    "courseId": 17,
+    "courseName": "Railway",
+    "courseDuration": null,
+    "updatedDttm": null,
+    "status": true,
+    "classMasters": [],
+    "subscriptionMasters": []
+  }
+]
