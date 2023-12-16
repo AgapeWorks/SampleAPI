@@ -19,7 +19,7 @@
   },
   {
     "courseId": 12,
-    "courseName": "Railway ",
+    "courseName": "Railway",
     "courseDuration": null,
     "updatedDttm": null,
     "status": true,
@@ -64,7 +64,7 @@
   },
   {
     "courseId": 17,
-    "courseName": "Railway",
+    "courseName": "CBSE",
     "courseDuration": null,
     "updatedDttm": null,
     "status": true,
